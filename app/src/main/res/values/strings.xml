@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Timer</string>
+  <string name="append_5_sec">Append 5 sec</string>
+  <string name="append_20_sec">Append 20 sec</string>
+  <string name="close">Close</string>
+  <string name="time_is_over">Time is over</string>
+</resources>
